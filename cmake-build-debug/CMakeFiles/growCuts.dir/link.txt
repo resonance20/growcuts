@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgrowCuts.a  CMakeFiles/growCuts.dir/library.cpp.o
+/usr/bin/ranlib libgrowCuts.a

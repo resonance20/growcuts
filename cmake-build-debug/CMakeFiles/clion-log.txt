@@ -1,0 +1,4 @@
+/home/mayank/Documents/clion-2017.2.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/mayank/workspace/GraphCuts
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mayank/workspace/GraphCuts/cmake-build-debug
